@@ -1,4 +1,10 @@
-### Hello, World! 👋
+### Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+Eu sou o Felipe Miranda, iniciando os estudos para a área de back-end, especificamente com Python. Pretendo nos próximos meses usar desta plataforma para mostrar os exercícios e projetos que realizo durante os estudos!
+
+Sempre fui um entusiasta de tecnologia, mas agora estou me dedicando totalmente.
+
+📈 My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirFelipeMiranda&show_icons=true&theme=blueberry))
 

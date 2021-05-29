@@ -1,5 +1,9 @@
 ### Hello, World! 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirFelipeMiranda&show_icons=true&theme=blueberry))
+
+
+[![](https://img.shields.io/badge/-Linkedin-0073B1?style=flat-square)](http://linkedin.com/in/felipe-miranda-785253144/)
 <!--
 **SirFelipeMiranda/SirFelipeMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

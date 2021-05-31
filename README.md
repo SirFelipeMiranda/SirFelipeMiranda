@@ -10,6 +10,8 @@ Sempre fui um entusiasta de tecnologia, mas agora estou me dedicando totalmente.
 
 
 [![](https://img.shields.io/badge/-Linkedin-0073B1?style=flat-square)](http://linkedin.com/in/felipe-miranda-785253144/)
+
+![Snake animation](https://github.com/SirFelipeMiranda/SirFelipeMiranda/blob/output/github-contribution-grid-snake.svg)
 <!--
 **SirFelipeMiranda/SirFelipeMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

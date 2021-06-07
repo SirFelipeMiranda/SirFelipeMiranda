@@ -29,7 +29,7 @@ I’ve always been a tech enthusiast, but now I’m fully committed to working o
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirFelipeMiranda&show_icons=true&theme=blueberry))
 
 
-[![](https://img.shields.io/badge/-Linkedin-0073B1?style=flat-square)](http://linkedin.com/in/felipe-miranda-785253144/)
+
 
 ![Snake animation](https://github.com/SirFelipeMiranda/SirFelipeMiranda/blob/output/github-contribution-grid-snake.svg)
 <!--
